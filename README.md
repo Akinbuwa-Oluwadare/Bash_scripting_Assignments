@@ -1,6 +1,6 @@
 # ETL Project
 
-## Overview
+## Overview of the project
 
 This project includes Bash scripts to:
 - Download and transform a CSV file.
